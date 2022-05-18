@@ -1,7 +1,13 @@
 # DRFNested_serializer
 
-In that repo i mostly working on admin panel in short u can say admin panel customization
-
-check out my App named (api/admin.py) file
-and write test case of model.
-And any question related to this repo u can ask feel free to me.
+In This Repos i worked on....!
+  1. Django_filters
+  2. rest_framework_swagger
+  3. drf_yasg
+  4. debug_toolbar
+  5. ckeditor
+  6. import_export
+  7. django_otp
+  8. django_otp.plugins.otp.totp
+  9. google-captcha
+ The main thing is that i mostly worked on admin panel customization.

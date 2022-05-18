@@ -174,8 +174,8 @@ EMAIL_FILE_PATH = BASE_DIR / "sent_emails"
 OTP_TOTP_ISSUER = 'Two Factor Authentication.'
 
 
-RECAPTCHA_PUBLIC_KEY = '6Ld5gOcfAAAAAOeAGBZGjp3XOmYomwLne-24vh92'
-RECAPTCHA_PRIVATE_KEY = '6Ld5gOcfAAAAABAJm-N3eqZZboueHRpIAGAtpWIX'
+RECAPTCHA_PUBLIC_KEY = '##################################'
+RECAPTCHA_PRIVATE_KEY = '6Ld5gOcfAAAAABAJm-##################IX'
 
 RECAPTCHA_REQUIRED_SCORE = 0.85
 

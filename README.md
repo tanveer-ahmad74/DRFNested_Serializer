@@ -10,4 +10,4 @@ In This Repos i worked on....!
   7. django_otp
   8. django_otp.plugins.otp.totp
   9. google-captcha
- The main thing is that i mostly worked on admin panel customization.
+ 10.The main thing is that i mostly worked on admin panel customization.
